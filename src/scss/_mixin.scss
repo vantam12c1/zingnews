@@ -1,0 +1,35 @@
+// Truyền vào số dòng cần hiện. vd: truyền 5 thì hiện 5 dòng rồi ...
+@mixin multiLineTextTrunc($line) {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: $line;
+    overflow: hidden;
+}
+
+@mixin centerAbsolute($pos) {
+    position: absolute;
+
+    @if $pos=="both" {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    @else if $pos=="left" {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    @else if $pos=="top" {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
+
+@mixin flex($justifyContent: "flex-start", $alignItems: "flex-start", $direction: "row", $wrap: "nowrap") {
+    display: flex;
+    justify-content: $justifyContent;
+    align-items: $alignItems;
+    flex-direction: $direction;
+    flex-wrap: $wrap;
+}

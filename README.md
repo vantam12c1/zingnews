@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Start json-server `json-server --watch db.json --port=7777`
+
 ### `npm start`
 
 Runs the app in the development mode.\

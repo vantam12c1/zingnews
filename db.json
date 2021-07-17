@@ -1,0 +1,251 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "title": "test 1",
+      "desc": "this is test 1"
+    },
+    {
+      "id": 2,
+      "title": "test 2",
+      "desc": "this is test 2"
+    },
+    {
+      "id": 3,
+      "title": "test 3",
+      "desc": "this is test 3"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "breadcrumb": "SÁCH HAY",
+      "album": "A đây rồi Hà Nội 7 món",
+      "album_title": "Cuốn sách là tuyển tập những bài viết của nhà văn Trần Chiến về Hà Nội trong ngót 30 năm qua. Tác giả đã vẽ lại Hà Nội dưới nhiều màu sắc, góc nhìn.",
+      "author": "Trần Chiến",
+      "nxb": "Nhà xuất bản trẻ",
+      "title": "Chợ ở Hà Nội",
+      "slug": "cho-o-ha-noi",
+      "subtitle": "Hà Nội nhiều chợ. Những chợ to nhất được xây cất lại, lên tầng là Trương Định, Hàng Da, Ngã Tư Sở.",
+      "desc": "<p>Loại nhỏ hơn, bán thực phẩm là chính, vẫn lụp xụp cổ lỗ kiểu truyền thống là Hàng Bè, Bưởi, Khâm Thiên, “Âm phủ”, Cao Thắng, xung quanh có các vệ tinh như chợ “xanh”, chợ trời, chợ cóc, đuổi chỗ này nhảy sang chỗ khác họp.</p><p>Lại có những chợ “tự giác” hình thành, vô lý đến quái đản mà tồn tại bất chấp chỉ thị, nghị quyết của thành phố, sự ra tay của phường quận, sự ầm ỹ của báo chí.</p><p>Đó là “lò” thuốc tây (nhiều loại kích dục) của dăm chục người mù ở Hàng Chiếu, trong khi dược sĩ chính hiệu đi bơm xe, rửa bát, “lò” gái “bán hoa” ban đêm quanh hồ Thiền Quang... Người ưa may rủi có thể đến chợ thơ đề họp cạnh nhà xuất bản Ngoại văn đường Trần Hưng Đạo, mua đôi câu thơ rõ bí hiểm, về “khéo” giải “liền” trúng số.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/dqmblcvo/2021_07_10/186476352_4334387823239211_8998466747007943896_n.jpg' /></p><p>Hà Nội nghìn lẻ một chuyện chợ, xin dạo kỹ hơn ở Đồng Xuân - “cái bụng” của thành phố, và chỉ kể chuyện trong vài tháng gần gần thôi.</p><p>Vị trí của Đồng Xuân ở Hà Nội có thể so với Bến Thành, Bình Tây ở Sài Gòn - Chợ Lớn, chợ Đồng Đăng ở Lạng Sơn, chợ Đông Ba Huế, chợ Rồng Nam Định, chợ Cồn Đà Nẵng hay chợ Đầm Nha Trang.</p><p>Lượng hàng hóa trao đổi ở đây lớn hơn bất kỳ trung tâm thương nghiệp nào trong thành phố, dù là quốc doanh hay tư nhân. Được xây cất đã ngót thế kỷ, chợ Đồng Xuân là một trong những biểu tượng của Hà Nội, cùng với chùa Một Cột, Văn Miếu - Quốc Tử Giám.</p><p>Năm 1990, thành phố khởi công xây chợ mới trên nền hai chợ Đồng Xuân - Bắc Qua cũ, kinh phí hoàn toàn do tư thương và 18 đơn vị quốc doanh đóng góp. Nhà nước không phải bỏ vốn tị tẹo nào, chỉ đứng ra làm. Các hộ buôn góp từ 6,5 đến 21,7 triệu đồng (thời điểm đầu năm 1990) tùy theo diện tích, vị trí kinh doanh sau này (bình quân hơn 10 triệu và được miễn lệ phí đất trong sáu năm)...</p>",
+      "categories": ["sach-hay", "noi-bat"],
+      "poster": "https://znews-photo.zadn.vn/w480/Uploaded/dqmblcvo/2021_07_13/cho_dong_xuan_1_1.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/jbvunte/2021_07_10/a_day_roi.jpg"
+    },
+    {
+      "id": 2,
+      "breadcrumb": "TÁC GIẢ",
+      "album": "Thời thơ ấu của các đại văn hào",
+      "album_title": "Mỗi chúng ta đều có chuyện để kể. Các đại văn hào là những người kể chuyện đại tài. Nhưng ở tuổi thơ, có những người có khiếu kể chuyện bẩm sinh, một số khác lại biến trải nghiệm bản thân thành những câu chuyện đem lại niềm vui cho mọi người. Sách kể về tuổi thơ, thời điểm bắt đầu câu chuyện của các nhà văn nổi tiếng.",
+      "author": "David Stabler",
+      "nxb": "NXB Kim Đồng",
+      "title": "Tuổi thơ của Lewis Carroll",
+      "slug": "tuoi-tho-cua-lewis-carroll",
+      "subtitle": "Lewis Carroll có nhiều điểm chung với nhân vật mà ông hư cấu, như cùng thông minh, hiếu kỳ, dũng cảm.",
+      "desc": "<p>Ở tuổi trưởng thành, tác giả Alice ở xứ sở diệu kỳ có vóc dáng không chút ấn tượng. Gầy gò và mảnh khảnh, với tật nói lắp rõ rệt, cậu dành phần lớn thời gian chúi mũi vào cuốn sách toán. Nhưng dưới vẻ ngoài dị dị này là một chiến binh gan dạ không bao giờ cho phép kẻ bắt nạt chèn ép được mình.</p><p>Nhân vật nổi tiếng nhất của Lewis Carroll là một cô bé thông minh, hiếu kỳ và dũng cảm có tên Alice. Dựa vào trí tuệ của mình, cô đã tìm đường đi qua thế giới điên rồ dướ lòng đất với đầy những sinh vật kỳ dị. Lewis Carroll ngoài đời thực, tên khai sinh là Charles Lutwidge Dodgson, có nhiều điểm chung với nhân vật chính hư cấu của mình.</p><p>Ví dụ: Charles rất thông minh. Có người từng nói ông có thể đọc tiếng Latinh cổ điển khi mới tám tuổi. Mẹ của Charles đảm đương việc dạy dỗ cậu khi còn nhỏ. Bà liệt kê một danh mục sách cho cậu đọc và ghi lại những cuốn cậu đã đọc xong.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/oplukaa/2021_07_16/2015_13_lewis_carroll.jpg' /></p><p>Charles đầy tính hiếu kỳ. Vì môn cha cậu yêu thích nhất là toán học, Charles cũng có hứng thú với môn này. Một lần, cậu tìm được một cuốn sách toán cao cấp trong nhà. Cậu mang sách đến chỗ cha, chỉ vào một trang đầy những đề bài phức tạp về logarit.</p><p>Charles còn là người dũng cảm. Cậu đứng thứ ba trong 11 người con, và là con trai cả. Ở Anh vào thế kỉ 19, trưởng nam được kỳ vọng phải kế tục cha làm chủ gia đình. Kết quả là Charles rất có ý thức bảo vệ chị và các em mình, đặc biệt là chị em gái. Mỗi khi em trai hay chị em gái gặp rắc rối, Charles luôn là người khuyên họ cách giải quyết vấn đề. Và khi có kẻ bắt nạt họ, Charles có trách nhiệm đứng lên đối mặt.</p><p>Hầu hết thời thơ ấu, Charles thoát được bọn bắt nạt. Cậu lớn lên trong một ngôi làng nhỏ xíu tên là Daresbury. Cha cậu là mục sư đứng đầu một giáo xứ gồm khoảng 150 người. Daresbury là một vùng nông thôn đúng nghĩa. Không có nhiều hạng mục giải trí ở nơi này. Một chiếc xe kéo xuất hiện trên đường cũng là sự kiện lớn. Toàn bộ trẻ con trong làng sẽ tụ tập lại xem chiếc xe đi qua...</p>",
+      "categories": ["sach-hay", "noi-bat"],
+      "poster": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_16/thumb_Carroll.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_15/R.jpg"
+    },
+    {
+      "id": 3,
+      "breadcrumb": "SÁCH HAY",
+      "album": "90 chân dung văn hóa, văn chương Việt",
+      "album_title": "Sách giới thiệu 90 nhân vật, từ những tên tuổi làm nên bước chuyển động lớn trong văn học trung đại, kể từ Chu Văn An, Lê Thánh Tông, Nguyễn Bỉnh Khiêm… cho tới Nguyễn Du, Nguyễn Công Trứ, Cao Bát Quát… còn lại phần lớn là những tên tuổi làm nên gương mặt thế kỷ XX khi văn hóa-văn học Việt Nam chuyển mình vào quỹ đạo hiện đại.",
+      "author": "GS Phong Lê",
+      "nxb": "NXB Trẻ",
+      "title": "Sự sáng tạo của Nguyễn Huy Thiệp trong truyện lịch sử",
+      "slug": "su-sang-tao-cua-nguyen-huy-thiep-trong-truyen-lich-su",
+      "subtitle": "Truyện lịch sử là một mảng sáng tác quan trọng của Nguyễn Huy Thiệp. Năm 1989, nhà phê bình Phong Lê đã có bài viết bàn về khía cạnh chất liệu lịch sử trong truyện 'Phẩm tiết'.",
+      "desc": "<p>Ở cơ quan tôi (Viện Văn học) tổ chức một cuộc trao đổi ý kiến về truyện Nguyễn Huy Thiệp, có tác giả tham dự. Các ý kiến đang vỡ ra, có sự khác nhau, bên cạnh nhiều điểm thống nhất về phong cách riêng và cái mới mà tác giả đem lại trên một số mảng truyện, về sự cần thiết phải hoan nghênh và cẩn trọng trước một tài năng.</p><p>Nhưng ở mảng truyện có chất liệu lịch sử này thì, theo sự nhận xét của tôi, các ý kiến nêu ra còn dè dặt. Trong đối thoại giữa tác giả và người đọc, và giữa người đọc với nhau, vẫn tồn tại lắm khoảng trống, còn nhiều rào đón, thăm dò.</p><p>Tôi là một trong số (không biết nhiều ít thế nào) chủ trương không phủ nhận, thậm chí mong mỏi sự sáng tạo mạnh mẽ, phóng khoáng của nhà văn; nhưng rồi vẫn không hết ngập ngừng trước mấy cái tên nhân vật mới, là Khải và Thi đã nói trên, không kể tên Phương buôn bò - phản chủ, mà anh Thiệp đưa vào truyện.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/oplukaa/2021_07_13/50234354_2457578644254721_6313928823670833152_n.jpg' /></p></p>Băn khoăn: Các nhân vật đó có trong lịch sử không, chỉ là một cách nói mượn dạng “thật thà”, để thay cho cái ý: Những giới hạn mà truyện mượn chất liệu lịch sử có quyền vươn đến, và không nên vượt qua.</p><p>Còn công chúng nói chung thuộc số đông, họ rất có lý, và càng có quyền nêu câu hỏi trên sự đối chiếu sự thật lịch sử và sự thật văn học.</p><p>Vậy là Quang Trung có ít nhất ba vợ: Mẹ Quang Toản - người kế ngôi Quang Trung là một; Ngọc Hân - tác giả bài văn tế Ai tư vãn là hai; và bây giờ lại có thêm... Vinh Hoa? (Còn chuyện Quang Trung đi chân đất, xõa tóc đến gặp Vinh Hoa; chuyện Quang Trung chưa được thành thân với Vinh Hoa; rồi Quang Trung chết mà không nhắm mắt…</p>",
+      "categories": ["sach-hay", "noi-bat"],
+      "poster": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_13/tn_NHT.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_09/90_chan_dung_van_hoa_van_chuong_viet.jpg"
+    },
+    {
+      "id": 4,
+      "breadcrumb": "SÁCH HAY",
+      "album": "Thời thơ ấu của các nhà khoa học tài danh",
+      "album_title": "Sách không nói tới những điều to tát như lên Mặt Trăng, giải Nobel, những phát minh nổi tiếng. Trước khi trở thành những nhà khoa học với phát minh đột phá, họ là những đứa trẻ bình thường. Tác phẩm của David Stabler kể về tuổi thơ của các nhà khoa học tài danh, cách nuôi dưỡng ước mơ.",
+      "author": "David Stabler",
+      "nxb": "NXB Kim Đồng",
+      "title": "Stephen Hawking - cậu bé mê chế tạo",
+      "slug": "stephen-hawking-cau-be-me-che-tao",
+      "subtitle": "Đối với Stephen, chế tạo đồ vật cũng giống như tạo ra vũ trụ của riêng mình, một thứ mà chỉ mình cậu có thể điều khiển.",
+      "desc": "<p>Cậu rất thành thục trong việc tháo rời mọi thứ, như đồng hồ và radio, nhưng cậu không giỏi ráp chúng lại. Một lần, cậu thử biến chiếc tivi cũ thành một bộ khuếch đại. Nhưng khi cắm điện, cậu đã bị một cú giật điện 500 vôn.</p><p>Tuy nhiên, cậu ít khi gặp thất bại với các thí nghiệm. Chẳng bao lâu, những đứa trẻ từng chê cười Stephen đã dần thán phục cậu. Họ thậm chí còn đặt cho cậu một biệt danh mới: “Einstein”.</p><p>Khoảng thời gian này, Stephen bắt đầu theo cha mình đến chỗ làm việc của ông tại Viện nghiên cứu Y học Quốc gia. Trong phòng thí nghiệm của mình, ông Hawking nghiên cứu về các bệnh nhiệt đới. Hai cha con cùng nhau đến nhà côn trùng, nơi chứa đầy những con muỗi mang bệnh sốt rét chết người.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/oplukaa/2021_07_13/91AwOFKds1L.jpg' /></p><p>Stephen ngày càng bị mê hoặc bởi thế giới khoa học. Nhưng trong khi cha cậu hy vọng cậu sẽ học ngành y hoặc sinh học, Stephen lại muốn đi theo một hướng khác. Như sau này cậu viết: 'Những cậu bé thông minh nhất học toán và vật lí'.</p><p>Chính tại St. Alban, Stephen đã được biết đến những kỳ quan toán học, điều mà thầy Dikran Tahta của cậu gọi là “bản thiết kế vũ trụ”. Ý tưởng đó đã thu hút Stephen vì cậu luôn quan tâm đến cách thức các vật được tạo ra và sắp đặt.</p><p>Không giống như lớp học của hầu hết giáo viên khác, những giờ học toán của thầy Tahta rất sinh động và thú vị. Sau này, Stephen rất biết ơn thầy Tahta vì đã truyền cảm hứng cho mình trở thành giáo sư toán học...</p>",
+      "categories": ["sach-hay", "noi-bat", "khoa-hoc"],
+      "poster": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_13/hawking.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_09/c08f0e8dcb5f6b259ebb6d3e8d2d9f3a.jpg"
+    },
+    {
+      "id": 5,
+      "breadcrumb": "SÁCH HAY",
+      "album": "Thời thơ ấu của các nhà khoa học tài danh",
+      "album_title": "Sách không nói tới những điều to tát như lên Mặt Trăng, giải Nobel, những phát minh nổi tiếng. Trước khi trở thành những nhà khoa học với phát minh đột phá, họ là những đứa trẻ bình thường. Tác phẩm của David Stabler kể về tuổi thơ của các nhà khoa học tài danh, cách nuôi dưỡng ước mơ.",
+      "author": "David Stabler",
+      "nxb": "NXB Kim Đồng",
+      "title": "Albert Einstein: 'Cần nỗ lực cả đời để có sự uyên bác'",
+      "slug": "albert-einstein-can-no-luc-ca-doi-de-co-su-uyen-bac",
+      "subtitle": "Albert Einstein tin rằng toàn bộ thế giới là lớp học của mình. Ông từng nói sự uyên bác không phải sản phẩm của trường học, mà cần có sự nỗ lực cả đời để đạt được.",
+      "desc": "<p>Cuối năm đó, Albert bị ốm và phải nằm trên giường bệnh vài tuần. Để cậu đỡ chán khi hồi phục, người cha mua cho cậu một chiếc la bàn. Thiết bị chỉ phương hướng này đã hấp dẫn trí tưởng tượng của cậu theo cái cách mà chiếc đàn không làm được.</p><p>Albert bị mê hoặc bởi cách kim la bàn luôn chỉ về hướng bắc, bất kể cậu xoay nó theo hướng nào. Cha cậu giải thích rằng đó là do một lực vô hình gọi là từ tính.</p><p>Albert rất thích thú khi biết rằng có một sức mạnh vô hình trên thế giới mà sự ảnh hưởng của nó có thể quan sát và đo lường được.</p><p>“Trải nghiệm này đã gây một ấn tượng sâu sắc và lâu dài với tôi”, sau này ông nói.</p><p>“Có một điều gì đó ẩn sâu đằng sau mọi thứ trên thế giới này”. Albert đã dành hết phần còn lại của cuộc đời mình để nghiên cứu những lực bí ẩn ấy.</p><p>Cuối cùng, Albert đã tìm được một vấn đề khiến cậu quan tâm. Giờ đây tất cả những gì cậu cần là một thứ ngôn ngữ có thể giúp cậu hiểu các tính chất khoa học và truyền đạt ý tưởng của mình cho người khác. Cậu đã tìm thấy ngôn ngữ đó trong toán học.</p><p>Trong một lần tới chơi, bác Jakob nhận thấy cháu mình thích giải các bài toán trong thời gian rảnh rỗi. Mặc dù Albert còn quá nhỏ để làm các bài toán phức tạp, bác Jakob đã dạy cậu biết thêm một nhánh của toán học gọi là đại số. Họ cùng nhau giải các bài đại số phức tạp như thể đang chơi một trò chơi. Bất cứ khi nào Albert giải xong bài toán trước bác Jakob - mà thường là như vậy - cậu hét lên trong chiến thắng.</p><p>Một người khách khác tới thăm gia đình Einstein cũng chú ý đến tình yêu những con số của Albert. Max Talmey, một sinh viên y khoa trẻ tuổi, thường đến ăn tối với gia đình vào thứ năm. Trong một lần đến chơi, Max đã tặng Albert một cuốn sách hình học. Không lâu sau đó, Albert đã cày xới toàn bộ cuốn sách, giải được hết mọi bài toán...</p>",
+      "categories": ["sach-hay", "sach-moi", "khoa-hoc", "einstein"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/oplukaa/2021_07_11/ET.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_09/c08f0e8dcb5f6b259ebb6d3e8d2d9f3a.jpg"
+    },
+    {
+      "id": 6,
+      "breadcrumb": "SÁCH HAY",
+      "album": "Thời thơ ấu của các nhà khoa học tài danh",
+      "album_title": "Sách không nói tới những điều to tát như lên Mặt Trăng, giải Nobel, những phát minh nổi tiếng. Trước khi trở thành những nhà khoa học với phát minh đột phá, họ là những đứa trẻ bình thường. Tác phẩm của David Stabler kể về tuổi thơ của các nhà khoa học tài danh, cách nuôi dưỡng ước mơ.",
+      "author": "David Stabler",
+      "nxb": "NXB Kim Đồng",
+      "title": "Tuổi thơ của Albert Einstein",
+      "slug": "tuoi-tho-cua-albert-einstein",
+      "subtitle": "Thiên tài Albert Einstein từng bị người hầu gái đặt cho biệt danh 'cậu bé ngốc'. Khi đi học, cậu thường không vâng lời giáo viên.",
+      "desc": "<p>Ngày nay, chúng ta coi Albert Einstein là bộ óc khoa học sáng tạo nhất của thế kỷ 20. Nhưng ban đầu, Albert là học sinh chậm chạp và yếu kém, với tính hay chống đối khiến cậu suýt bị đuổi khỏi trường. Hành trình dài từ tồi tệ đến rực rỡ của cậu không dễ dàng như phép tính E=mc2.</p><p>Ngay từ khi mới sinh vào năm 1879, Albert Einstein đã là sự thất vọng lớn với cả gia đình. “Mập quá, quá mập!”. Bà ngoại thốt lên ngay lần đầu tiên thấy cháu.</p><p>Mẹ của Albert, bà Pauline Einstein, đã mất tinh thần bởi kích thước và hình dạng đầu của con mình. Đầu cậu bé dường như quá lớn và nhọn một cách kỳ quặc. Bà tự hỏi liệu đứa con mới sinh của mình có phải là thứ quái vật ngoài hành tinh.</p><p>Cuối cùng, gia đình Albert cũng thấy thoải mái hơn một chút về thành viên mới này. Một bác sĩ đã thuyết phục mẹ cậu rằng trí óc con trai bà hoàn toàn bình thường. Và sau giai đoạn sơ sinh mũm mĩm, cậu bắt đầu lớn lên và phát triển với tốc độ tương đương những đứa trẻ khác, với một ngoại lệ. Albert rất chậm biết nói.</p><p>Cha mẹ của Albert đã tham khảo ý kiến của một chuyên gia y tế để tìm hiểu xem liệu cậu có bị ảnh hưởng khả năng học tập không. Thời đó, nhiều người lầm tưởng rằng nếu một người cứ im bặt thì chắc phải có điều gì đó không ổn với họ. Người hầu gái của gia đình Einstein đã nghĩ ra một biệt danh xấu xí cho Albert. Cô gọi cậu là 'der Depperte', tiếng Đức có nghĩa là “cậu bé ngốc”.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/oplukaa/2021_07_11/Albert_Einstein.jpg' /></p><p>Theo lời kể của những người trong gia đình, Albert đã phá vỡ sự im lặng kéo dài của mình vào một buổi tối tại bàn ăn bằng cách kêu lên.</p><p>Cảm thấy nhẹ nhõm vì con mình đã nói được, bố mẹ hỏi tại sao cậu chưa bao giờ lên tiếng. “Bởi vì từ trước tới giờ, mọi thứ đều ổn mà!”, Albert trả lời.</p><p>Ngay cả khi đã bắt đầu nói, Albert cũng ít khi nói những gì mọi người mong chờ ở mình. Ví dụ, khi cậu hai tuổi, lần đầu tiên cậu để mắt tới em gái Maja của mình. Cậu nghĩ cô bé là đồ chơi và hỏi: “Những cái bánh xe nhỏ của nó đâu?”...</p>",
+      "categories": ["sach-hay", "sach-moi", "khoa-hoc", "einstein"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/oplukaa/2021_07_11/Albert_Einstein.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_09/c08f0e8dcb5f6b259ebb6d3e8d2d9f3a.jpg"
+    },
+    {
+      "id": 7,
+      "breadcrumb": "SÁCH HAY",
+      "album": "Quái kiệt làm điều khác biệt",
+      "album_title": "Cuốn sách kể những câu chuyện thành công của hơn 50 nhân vật “quái kiệt”. Họ là những doanh nhân, nhà đầu tư, vận động viên, nghệ sĩ nổi tiếng trên thế giới; phần lớn trong số họ có khối tài sản khổng lồ. Qua sách, độc giả hiểu được điểm khác biệt đem lại thành công cho những nhân vật này.",
+      "author": "Rainer Zitelmann",
+      "nxb": "Alpha Book và NXB Thế giới",
+      "title": "Ông trùm dầu mỏ Rockefeller làm giàu từ những khó khăn",
+      "slug": "ong-trum-dau-mo-rockefeller-lam-giau-tu-nhung-kho-khan",
+      "subtitle": "Trong thời điểm ngành công nghiệp dầu mỏ rơi vào thảm họa, John D. Rockefeller vẫn nhìn thấy cơ hội để bứt phá.",
+      "desc": "<p>Trên thực tế, rất nhiều người thành công đã trải qua biến cố trên con đường sự nghiệp. Ông trùm dầu mỏ John D. Rockefeller, người giàu nhất trong lịch sử là một ví dụ. Nếu tính theo mệnh giá hiện nay, tài sản của ông trị giá khoảng 200-300 tỷ USD, lớn hơn nhiều so với những tỷ phú đương thời như Jeff Bezos hay Bill Gates.</p><p>Rockefeller làm giàu bằng cách khai thác chính những khó khăn to lớn mà ngành công nghiệp dầu mỏ phải đối mặt trong những năm đầu phát triển.</p><p>Sau một thời gian làm việc trong ngành thương mại thực phẩm, Rockefeller gia nhập ngành năng lượng với vai trò là một nhà thầu phụ. Năm 24 tuổi, ông thành lập một công ty dầu mỏ.</p><p>Vào thời điểm đó, không ai có thể dự đoán được tầm quan trọng của dầu mỏ. Không ai biết sự bùng nổ kéo dài bao lâu. Liệu nó có phải là một xu hướng ngắn ngủi như cơn sốt vàng hay không? Liệu ngành công nghiệp dầu mỏ có thể trở thành một ngành có lãi?</p><p>Giá dầu khi ấy dao động khủng khiếp. Năm 1861, một thùng có giá từ 10 xu đến 10 USD. Ba năm sau, giá vẫn dao động trong khoảng từ 4-12 USD. Mỗi khi một giếng dầu mới được phát hiện, giá dầu sẽ chạm đáy, cho đến khi mối lo ngại rằng dầu có thể khan hiếm khiến giá tăng cao trở lại.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/mzjyy/2021_06_27/John_Rockefeller_Getty_Images.jpg' /></p><p>Các nhà dầu cơ coi ngành công nghiệp mới là cơ hội để làm giàu nhanh chóng và dễ dàng. Các nhà máy lọc dầu mọc lên khắp nơi và đến năm 1870, khả năng xử lý đã gấp ba lần năng lực khai thác. Ba phần tư nhà máy lọc dầu rơi vào thua lỗ; một trong những đối thủ cạnh tranh chính của Rockefeller đã chào bán cổ phần với giá trị bằng một phần mười giá trị sổ sách.</p><p>Trong chính cuộc khủng hoảng này, Rockefeller cũng mất toàn bộ tài sản. “Là một người có khuynh hướng lạc quan, ‘nhìn thấy cơ hội trong mọi thảm họa’, ông đã nghiên cứu kỹ tình huống này thay vì than vãn mình xui xẻo. Với tư cách một nhà tinh chế dầu, ông nhận thấy thành công cá nhân đang bị sự thất bại trong toàn ngành đe dọa, do đó nó đòi hỏi một giải pháp mang tính đồng bộ và hệ thống”, người viết tiểu sử của Rockefeller viết.</p><p>Rockefeller thành lập Standard Oil dưới hình thức một công ty cổ phần và đặt cho mình mục tiêu to lớn: “Một ngày nào đó, tất cả sản phẩm dầu trên thị trường đều do Standard Oil tinh chế và đóng thùng”.</p><p>Nhắm đến mục tiêu kiểm soát toàn bộ ngành công nghiệp dầu mỏ, ông đổ toàn bộ 1 triệu USD vào công ty mới. Số vốn 1 triệu USD nhanh chóng được Rockefeller nhân lên thành 3,5 triệu USD.</p>",
+      "categories": ["sach-hay", "sach-moi", "kinh-doanh"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/mzjyy/2021_06_27/John_Rockefeller_Getty_Images.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_06_04/188627000_388227205847596_8735705783286939352_n.jpg"
+    },
+    {
+      "id": 8,
+      "breadcrumb": "SÁCH HAY",
+      "album": "90 chân dung văn hóa, văn chương Việt",
+      "album_title": "Sách giới thiệu 90 nhân vật, từ những tên tuổi làm nên bước chuyển động lớn trong văn học trung đại, kể từ Chu Văn An, Lê Thánh Tông, Nguyễn Bỉnh Khiêm… cho tới Nguyễn Du, Nguyễn Công Trứ, Cao Bát Quát… còn lại phần lớn là những tên tuổi làm nên gương mặt thế kỷ XX khi văn hóa-văn học Việt Nam chuyển mình vào quỹ đạo hiện đại.",
+      "author": "GS Phong Lê",
+      "nxb": "NXB Trẻ",
+      "title": "Từ truyện ngắn 'Phẩm tiết' nghĩ về Nguyễn Huy Thiệp",
+      "slug": "tu-truyen-ngan-pham-tiet-nghi-ve-nguyen-huy-thiep",
+      "subtitle": "Năm 1988, tác phẩm của Nguyễn Huy Thiệp gây nhiều tranh luận. Thời điểm ấy, GS Phong Lê đã có bài viết luận bàn về tác phẩm.",
+      "desc": "<p>Nguyễn Huy Thiệp đang là sự kiện văn học rất được quan tâm; và truyện ngắn gần đây nhất của anh - Phẩm tiết (báo Văn nghệ số 29-30;16/7/1988) đang gây tranh luận. Tôi cũng không là người ngoài cuộc.</p><p>Nhiều ý kiến băn khoăn về các nhân vật lịch sử: Quang Trung, Gia Long… qua cách dựng của Nguyễn Huy Thiệp. Tôi lại băn khoăn về các nhân vật “hư cấu”. Câu chuyện diễn ra giữa chúng tôi như sau:</p><p>Những phân vân như vậy quả quá ư thật thà. Tôi không sợ bị chê là dốt - dốt sử, dốt lý luận mà nói ra như vậy vì nghĩ rằng đây là ba nhân vật chính của Phẩm tiết, ba nhân vật chính của một truyện đậm đặc chất liệu lịch sử; còn nếu họ chỉ là nhân vật phụ, nhân vật thoáng qua của truyện thôi, thì khỏi phải bàn.</p><p>Hỏi để nhằm ghép thế nào cho tiện, hiểu thế nào cho thuận về mối quan hệ giữa họ với các nhân vật lịch sử đã được nêu trong truyện, gồm từ Quang Trung, Gia Long đến cả một lô quần thần, đều là các nhân vật có được ghi vào chính sử; còn việc hư và cấu của nhà văn thế nào là tùy, chứ không hề có ý đồ áp đặt...</p>",
+      "categories": ["sach-hay", "sach-moi", "van-hoc"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/oplukaa/2021_07_12/QT.jpg",
+      "image": "https://znews-photo.zadn.vn/w480/Uploaded/oplukaa/2021_07_09/90_chan_dung_van_hoa_van_chuong_viet.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "id": 1,
+      "breadcrumb": "BÓNG ĐÁ ANH",
+      "author": "Nguyên Khang",
+      "created_at": "Thứ 7, 17/7/2021 11:30 (GMT+7)",
+      "title": "Dàn sao trẻ tuyển Anh được dự đoán tỏa sáng ở World Cup 2022",
+      "slug": "dan-sao-tre-tuyen-anh-duoc-du-doan-toa-sang-o-world-cup-2022",
+      "subtitle": "Tuyển Anh hứa hẹn tiến sâu ở World Cup 2022 khi họ còn nhiều cầu thủ trẻ đang trên đà trưởng thành, bên cạnh những trụ cột như Harry Kane, Harry Maguire, Raheem Sterling.",
+      "desc": "<p><img src='https://znews-photo.zadn.vn/w660/Uploaded/yrfjpyvslyr/2021_07_17/Featured_Image_3.jpg' /></p><p><b>Mason Greenwood</b> đã phải chia tay Euro 2020 vì chấn thương. Sky Sports nhận định tiền đạo của MU sẽ có tên trong danh sách tuyển Anh dự World Cup 2022 nếu duy trì phong độ như ở mùa giải 2020/21. Greenwood sẽ san sẻ gánh nặng ghi bàn với Sterling và Kane nhờ khả năng dứt điểm ấn tượng bằng cả 2 chân.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/yrfjpyvslyr/2021_07_17/gomez.jpeg' /></p><p><b>Joe Gomez</b> cũng đã nghỉ gần như toàn bộ mùa giải 2020/21 vì chấn thương. Trước đó, anh là sự lựa chọn số 1 của HLV Juergen Klopp cho vị trí đá cặp trung vệ cùng Virgil Van Dijk. Khi trở lại, Gomez sẽ là sự bổ sung hoàn hảo cho John Stones và Maguire khi trung vệ của Liverpool giàu tốc độ hơn 2 người đàn anh.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/yrfjpyvslyr/2021_07_17/taa.jpg' /></p><p><b>Trent Alexander-Arnold</b> dính chấn thương trong trận giao hữu với Thụy Sĩ và phải chia tay Euro 2020 trong tiếc nuối. Theo Sky Sports, Alexander-Arnold sẽ rất phù hợp với sơ đồ 3-4-3. Khi đó, anh sẽ được thoải mái tấn công hơn. Những đường tạt bóng sớm của hậu vệ này sẽ là vũ khí lợi hại khi trong vùng cấm đối phương có Kane, một cầu thủ chơi đầu giỏi.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/yrfjpyvslyr/2021_07_17/2021_06_22T204258Z_1360163612_UP1EH6M1LJKR0_RTRMADP_3_SOCCER_EURO_CZE_ENG_REPORT.JPG' /></p><p><b>Jude Bellingham</b> có 3 lần ra sân ở Euro 2020 và được chơi 55 phút. Đây là khoảng thời gian ít ỏi nhưng cũng đủ để Bellingham cho thấy tiềm năng phát triển của mình. Nếu tiếp tục được trao nhiều cơ hội ở Bundesliga cũng như Champions League, anh sẽ là mối đe dọa vị trí đá chính đối với Declan Rice và Kalvin Phillips.</p>",
+      "categories": ["the-thao", "bong-da", "doi-tuyen-anh"],
+      "poster": "https://znews-photo.zadn.vn/w480/Uploaded/yrfjpyvslyr/2021_07_17/taa_1_1.jpg"
+    },
+    {
+      "id": 2,
+      "breadcrumb": "",
+      "author": "Tuấn Nguyên",
+      "created_at": "Thứ 7, 17/7/2021 05:54 (GMT+7)",
+      "title": "Diện mạo mới của Neymar",
+      "slug": "dien-mao-moi-cua-neymar",
+      "subtitle": "Tiền đạo sinh năm 1992 dành nhiều thời gian để thay đổi vẻ ngoài trước thềm mùa giải 2021/22.",
+      "desc": "<p>Neymar tạm gác lại nỗi buồn sau thất bại ở Copa America 2021 để tận hưởng những ngày nghỉ trước thềm mùa giải mới. Tiền đạo người Brazil đã dành 4 tiếng tại salon để tạo kiểu tóc bện thừng (dreadlock-style) cầu kỳ.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/natmzz/2021_07_17/naz.JPG' /></p><p>Chia sẻ về kiểu tóc của Neymar, nhà tạo mẫu Nanda Burguesinha cho biết: 'Neymar muốn tạo một kiểu tóc ấn tượng và chúng tôi đã đưa ra ý tưởng để anh ấy không bị nhầm lẫn với bất kỳ ai'.</p><p>Neymar vốn được biết đến là một ngôi sao bóng đá thường xuyên dành thời gian để chăm sóc vẻ ngoài. Trước khi khoe với người hâm mộ mái tóc bện thừng, chân sút sinh năm 1992 từng thu hút sự chú ý với mái tóc nhuộm hồng vào tháng 2/2020.</p><p>Trên mạng xã hội, nhiều CĐV trêu đùa Neymar khi so sánh mái tóc mới của anh với một chiếc chổi lau nhà hay một bát mỳ, số khác lại cho rằng tuyển kiểu tóc bện này sẽ gây bất tiện khi cầu thủ 29 tuổi ra sân thi đấu.</p><p>Sáng 11/7 (giờ Hà Nội), Neymar rơi nước mắt sau khi cùng tuyển Brazil thất bại trong việc bảo vệ ngôi vương Copa America trước Argentina. Tuy nhiên, anh đã nhanh chóng lấy lại tinh thần khi ngồi hàn huyên với người đồng đội cũ thân thiết Lionel Messi.</p><p>Neymar cũng đã làm rõ tương lai bằng việc ký hợp đồng dài hạn với PSG. Tiền đạo sinh năm 1992 vẫn tỏ rõ tham vọng giành chức vô địch Champions League cùng đội bóng thủ đô. CLB chủ sân Parc des Princes đang hoạt động năng nổ trên thị trường chuyển nhượng bằng việc chiêu mộ 3 tân binh chất lượng gồm Achraf Hakimi, Sergio Ramos và Gianluigi Donnarumma.</p>",
+      "categories": ["the-thao", "bong-da", "neymar"],
+      "poster": "https://znews-photo.zadn.vn/w480/Uploaded/natmzz/2021_07_17/naz1.JPG"
+    },
+    {
+      "id": 3,
+      "breadcrumb": "",
+      "author": "Duy Minh",
+      "created_at": "Thứ 7, 17/7/2021 12:42 (GMT+7)",
+      "title": "VĐV đặc biệt tại Olympic Tokyo",
+      "slug": "vdv-dac-biet-tai-olypic-tokyo",
+      "subtitle": "Pita Taufatofua của Đoàn thể thao Tonga lần thứ ba liên tiếp tranh tài tại Olympic trong đó có 2 kỳ mùa Hè và một kỳ mùa Đông.",
+      "desc": "<p>Taufatofua trở lại với môn taekwondon khi tranh tài ở Olympic Tokyo. Anh giành được vé tham dự hồi tháng 2/2020, sau khi chiến thắng trong trận đấu duy nhất ở Vòng loại Châu Đại Dương. Khi đó, Taufatofua đánh bại Steven Tommy của Papua New Guinea với tỷ số 20-4 ở hạng cân trên 80 kg nam.</p><p>Nam vận động viên 37 tuổi đặt mục tiêu đủ điều kiện tham dự 3 kỳ Thế vận hội liên tiếp ở các môn thể thao khác nhau, nhưng không thành. Anh thất bại trong việc giành vé môn canoeing ở Vòng loại khu vực Châu Đại Dương. Anh sẽ một lần nữa đại diện cho đất nước của mình thi đấu môn taekwondo, như đã làm ở Rio 2016.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/neg_etpyole/2021_07_17/tonga_man_social.jpg' /></p><p>Taufatofua cho biết việc anh nỗ lực tham dự Olympic không phải để làm nổi tiếng bản thân. 'Mục tiêu của tôi không bao giờ là nổi tiếng. Tôi đã làm việc trong một trại tị nạn dành cho người vô gia cư trong 15 năm với những đứa trẻ. Tôi học được một điều ở đó là không có lý do gì để buồn bã với cuộc sống', võ sĩ 37 tuổi chia sẻ.</p><p>Taufatofua được người hâm mộ thể thao biết đến rộng rãi tại Olympic Rio 2016, sau khi anh cởi trần và bôi dầu trong lúc cầm cờ ở lễ khai mạc. Anh thi đấu môn taekwondon và chịu thất bại ngay ở vòng đầu tiên trên đất Brazil.</p>",
+      "categories": ["the-thao", "truot-tuyet", "olympic-tokyo"],
+      "poster": "https://znews-photo.zadn.vn/w480/Uploaded/neg_etpyole/2021_07_17/Taufatofua.jpg"
+    },
+    {
+      "id": 4,
+      "breadcrumb": "BÓNG ĐÁ VIỆT NAM",
+      "author": "Lâm Biên",
+      "created_at": "Thứ 7, 17/7/2021 12:00 (GMT+7)",
+      "title": "V.League hoãn sang năm 2022 và những hệ lụy với các CLB",
+      "slug": "vleague-hoan-sang-nam-2022-va-nhung-he-luy-voi-cac-clb",
+      "subtitle": "Với việc V.League 2021 có thể dời sang tháng 2/2022, bóng đá nội mùa này có thể tiến vào trạng thái “ngủ đông” trong khi mùa giải 2022 lại có lịch thi đấu dày đặc.",
+      "desc": "<p>Theo tìm hiểu của Zing, các đội bóng tại V.League bước đầu được lấy ý kiến về việc có thể V.League sẽ không thể tiếp tục thi đấu trong năm 2021. Cụ thể, các trận đấu tại vòng 13 và giai đoạn 2 có thể được chuyển sang thi đấu vào tháng 2 năm 2022, sau khi các trận đấu tại vòng loại thứ ba World Cup 2022 vào dịp Tết Nguyên đán kết thúc.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/jopluat/2021_07_17/V.League_1_zing.jpg' /></p><h2>V.League rơi vào trạng thái “ngủ đông”</h2><p>Chia sẻ với báo giới, lãnh đạo VPF đã nhiều lần nói về khó khăn trong việc tổ chức giải ở thời điểm dịch bệnh hiện tại. VPF cũng không thể để giải đấu dừng lại quá lâu vì sẽ làm ảnh hưởng tới tình hình tài chính của các CLB. Bởi vậy, phương án dừng hẳn giải đấu trong năm 2020, chuyển sang tháng 2/2022 đã được tính tới.</p><p>Hồi đấu tháng 7, cuộc họp trực tuyến giữa VPF, VFF và 14 đội bóng tham dự V.League đã được diễn ra. Trong buổi họp này, nhiều nội dung quan trọng về công tác tổ chức giải đấu được đề cấp như thời gian trở lại, địa điểm thi đấu, phương thức tổ chức các trận đấu.</p><p>Về cơ bản, các đội bóng đi đến thống nhất việc V.League sẽ tổ chức theo hình thức tập trung ở cụm sân phía Bắc. Nguyên tắc bong bóng có thể được cân nhắc áp dụng cùng với điều kiện là các thành viên dự giải sẽ được tiêm ít nhất 1 mũi vaccine phòng COVID-19.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/jopluat/2021_07_17/V.League_2_zing.jpg' /></p><h2>Phương án nào phù hợp?</h2><p>Nếu V.League 2021 phải kéo dài sang năm 2022, năm 2022 là mùa giải kéo dài nhất trong lịch sử bóng đá Việt Nam. Theo tìm hiểu của Zing, phương án dự kiến là V.League đá nốt phần cuối mùa 2021 trong tháng 3 trước khi tiếp tục nghỉ một quãng ngắn. Tới tháng 5/2022, mùa 2022 sẽ khởi tranh.</p><p>Lịch trình dày đặc ấy sẽ khiến các đội bóng phải gánh chịu mức kinh phí hoạt động vượt xa các năm trước. Thực tế, VPF cũng đã chỉ ra vấn đề này trong những trao đổi thẳng thắn với lãnh đạo các CLB.</p><p>Trong các trao đổi riêng với một số CLB, VPF đã có tính toán để hỗ trợ các đội bóng về tài chính, nhưng con số thực tế sẽ là không đủ cho một mùa giải kéo quá dài. Để đưa V.League 2022 về đích an toàn, sẽ có những phát sinh tài chính mà mức độ này ở mỗi đội bóng lại khác nhau.</p><p>Phân tích với Zing, chuyên gia Phan Anh Tú nói: “Đến nay, việc tính toán phương án đưa giải đấu dời sang năm 2022 cũng có thể tính đến. Theo tôi, điều này cũng không quá ảnh hưởng đến đội tuyển quốc gia. Giải hoãn thì tuyển Việt Nam tập trung sớm hơn, cũng sẽ được chăm sóc kỹ càng”.</p>",
+      "categories": ["the-thao", "bong-da", "bong-da-viet-nam"],
+      "poster": "https://znews-photo.zadn.vn/w660/Uploaded/jopluat/2021_07_17/V.League.jpg"
+    },
+    {
+      "id": 5,
+      "breadcrumb": "BÓNG ĐÁ VIỆT NAM",
+      "author": "Quang Thịnh",
+      "created_at": "Thứ 7, 17/7/2021 11:00 (GMT+7)",
+      "title": "Dusit được đội bóng cũ của Kiatisuk chọn",
+      "slug": "dusit-duoc-doi-bong-cu-cua-kiatisuk-chon",
+      "subtitle": "CLB Port ở Thai League muốn mời cựu cầu thủ HAGL Dusit Chalermsan về dẫn dắt ở mùa giải 2021/22.",
+      "desc": "<p>Siamsport đưa tin, Port FC đang thương thảo với nhà cầm quân sinh năm 1970. Dusit sẽ thay HLV Sarawut Treephan dẫn dắt đội bóng nhiều tham vọng trở lại tốp đầu giải quốc nội.</p><p>CLB Port là đội bóng mà HLV Kiatisuk Senamuang từng làm việc sau khi từ chức ở đội tuyển Thái Lan. 'Zico Thái' chỉ làm việc ở đây một mùa giải vào năm 2017 rồi nghỉ cho đến khi trở lại HAGL năm 2021.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/aopuoax/2021_07_17/dusit_Dusit_Chalermsan.jpg' /></p><p>Đội bóng do bà chủ tịch Madame Pang (tên thật Nualphan Lamsam) có nhiều tham vọng. Họ đang cần người lãnh đạo có năng lực như Dusit. Hiện tại, Dusit sắp dẫn dắt Rajpracha F.C ở Thai League 2.</p><p>Cựu cầu thủ HAGL chứng minh năng lực khi giúp BG Pathum thăng hạng lên Thai League 1 mùa giải 2019, sau đó đưa đội bóng này vô địch ở năm tiếp theo. Dusit rời BG Pathum vào tháng 5/2021.</p><p>BG Pathum vừa vượt qua vòng bảng AFC Champions League. Dusit đáng lẽ là người dẫn dắt, tuy nhiên ông chưa có bằng HLV loại Pro theo quy định của AFC nên CLB phải tìm người khác thay thế ông.</p><p>Dusit đang chờ mùa giải mới, ông chưa có trận đấu chính thức nào với Rajpracha F.C. Đội bóng này thăng hạng hồi tháng 3/2021, đó cũng là lúc Dusit vô địch cùng BG Pathum trước 6 vòng đấu.</p><p>Port FC vừa dừng chân ở vòng bảng AFC Champions League. HLV Treephan có vẻ như chưa đủ tầm nâng cấp đội bóng. Vì vậy mới có thông tin Dusit là ứng viên sáng giá về sân Pat làm HLV trưởng.</p>",
+      "categories": ["the-thao", "bong-da", "bong-da-viet-nam", "bong-da-thai"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/aopuoax/2021_07_17/Dusit_Chalermsan.png"
+    },
+    {
+      "id": 6,
+      "breadcrumb": "ESPORTS",
+      "author": "Đỗ Sang",
+      "created_at": "Thứ 7, 17/7/2021 12:00 (GMT+7)",
+      "title": "Tốc Chiến hé lộ loạt tướng mới",
+      "slug": "toc-chien-he-lo-loat-tuong-moi",
+      "subtitle": "Bản cập nhật 2.4 vào đầu mùa 3 của Tốc Chiến sẽ có sự góp mặt của 3 vị tướng mới gồm Akshan, Brand và Nunu & Willump.",
+      "desc": "<p>Alan Moore - Giám Đốc hiện tại của Tốc Chiến - chia sẻ thêm về sự góp mặt của vị tướng thứ 4 mang tên Thresh. Khác với 3 vị tướng kể trên, Thresh được giới thiệu và xuất hiện thông qua sự kiện Đại Suy Vong, vẫn được diễn ra cho đến giữa tháng 8.</p><p>Bản cập nhật 2.4 hứa hẹn rất thu hút người chơi Tốc Chiến, khi đây cũng là lần đầu tiên Riot giới thiệu một vị tướng hoàn toàn mới song song với LMHT phiên bản PC. Tướng Akshan có mặt trên hệ thống máy chủ thử nghiệm PBE, và dự kiến chính thức ra mắt trên cả 2 nền tảng PC và di động trong tháng 7.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/qnugjz/2021_07_17/Anh_1.jpg' /></p><p>Bên cạnh sự giới thiệu về các tướng mới trong phiên bản cập nhật 2.4, Riot cung cấp thông tin về những nhóm trang phục mới, như Hắc Tinh hoặc Hồ Quang.</p><p>Ngoài ra, ông Alan Moore úp mở về những thay đổi nhằm cải thiện hệ thống trận đấu Xếp Hạng, vốn đang gây khó khăn cho những người leo Rank ở những cấp thấp.</p><p>Trong phiên bản 2.4 lần này, Riot Games còn cải thiện hệ thống trang bị trong Tốc Chiến, được cho là nghèo nàn, khi thêm vào loạt 'đồ chơi' mới trong cửa hàng. Với những sản phẩm như Đoản Đao Novari, Phong Thần Kiếm hoặc Trượng Lưu Thuỷ, Riot đang ngày càng mang Tốc Chiến xích lại gần phiên bản PC, nhằm tạo sự đa dạng hơn qua mỗi trận đấu.</p>",
+      "categories": ["the-thao", "esports", "lmht", "moi-nhat"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/qnugjz/2021_07_17/Akshan_Thumb_Toc_Chien.jpg"
+    },
+    {
+      "id": 7,
+      "breadcrumb": "BÓNG ĐÁ ANH",
+      "author": "Việt Tuệ",
+      "created_at": "Thứ 7, 17/7/2021 8:00 (GMT+7)",
+      "title": "4 ngôi sao trong diện thanh lý của MU",
+      "slug": "4-ngoi-sao-trong-dien-thanh-ly-cua-mu",
+      "subtitle": "Tiền vệ Jesse Lingard là một trong những ngôi sao không được đảm bảo tương lai ở đội hình Man Utd.",
+      "desc": "<p>Theo <i>Daily Star</i>, bên cạnh Lingard, Andreas Pereira, Diogo Dalot và Alex Telles đều đứng trước nguy cơ rời MU trong kỳ chuyển nhượng hè này.</p><p>'Quỷ đỏ' phải thanh lý những cầu thủ không còn phù hợp với kế hoạch của Ole Gunnar Solskjaer, đồng thời dọn dẹp quỹ lương để sẵn sàng đón các tân binh Jadon Sancho và dự kiến có cả Kieran Trippier cùng Raphael Varane.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/qxjrcqjwq/2021_07_17/c9e6e39f_13e9_4bcc_bb1e_7edaf958_1609476887371.jpg' /></p><p>Mùa trước, Lingard gia nhập West Ham theo hợp đồng cho mượn từ giai đoạn 2 và chơi ấn tượng. Tuy nhiên, HLV Solskjaer không có ý định trao cơ hội cho tiền vệ người Anh. MU hét giá bán đứt 30 triệu bảng cho West Ham và đang chờ hồi đáp từ CLB thành London.</p><p>Pereira trở về MU sau khi hết hợp đồng cho mượn tại Lazio. HLV Solskjaer đã loại Pereira khỏi kế hoạch từ năm ngoái, do đó tiền vệ người Brazil phải tìm bến đỗ mới. Tương tự là Dalot, cầu thủ trở về từ AC Milan.</p><p>Telles là trường hợp HLV Solskjaer phải cân nhắc. AS Roma muốn mượn Telles một mùa, nhưng MU chỉ muốn bán đứt. Trong trường hợp 'Quỷ đỏ' không thể chiêu mộ thêm hậu vệ, Telles sẽ có cơ hội trụ lại thêm một mùa.</p><p>Đội chủ sân Old Trafford đã chiêu mộ thành công thủ môn Tom Heaton và chuẩn bị công bố tân binh Sancho. 'Quỷ đỏ' cũng quyết định ký hợp đồng gia hạn một năm cho Juan Mata và kích hoạt điều khoản giữ chân Edinson Cavani đến hết mùa 2021/22.</p><p>HLV Solskjaer mong muốn Paul Pogba gia hạn hợp đồng, nhưng đôi bên đang gặp bế tắc. Trong trường hợp Pogba ở lại và không ký hợp đồng, MU có thể mất trắng tiền vệ người Pháp vào hè năm sau.</p>",
+      "categories": ["the-thao", "bong-da", "moi-nhat", "lingard", "mu", "quy-do", "manchester-united", "bong-da-anh"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/qxjrcqjwq/2021_07_17/26rory_lingard1_superJumbo_7348_1617956338_1.jpg"
+    },
+    {
+      "id": 8,
+      "breadcrumb": "",
+      "author": "Thường Châu",
+      "created_at": "Thứ 7, 17/7/2021 07:21 (GMT+7)",
+      "title": "Xác định nơi tổ chức chung kết Champions League 2021/22",
+      "slug": "xac-dinh-noi-to-chuc-chung-ket-champions-league-202112",
+      "subtitle": "Liên đoàn Bóng đá châu Âu (UEFA) sớm công bố địa điểm tổ chức các trận chung kết Champions League và Europa League để các địa phương đăng cai có sự chuẩn bị kịp thời.",
+      "desc": "<p>Theo trang Twitter của UEFA, sân vận động Krestovsky (thành phố Saint Petersburg, Nga) sẽ tổ chức trận chung kết Champions League 2021/22. Istanbul (Thổ Nhĩ Kỳ), London (Anh) và Munich (Đức) là nơi diễn ra trận đấu cuối cùng ở đấu trường danh giá nhất châu Âu trong 3 mùa giải tiếp theo.</p><p>Trong khi đó, trận chung kết Europa League 2021/22 sẽ diễn ra ở Sevilla (Tây Ban Nha). Trong 3 mùa giải tiếp theo, Europa League sẽ lần lượt hạ màn ở Budapest (Hungary), Dublin (CH Ireland) và Bilbao (Tây Ban Nha).</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/khunsio/2021_07_17/E6buoYOWYAQ50sw.jpg' /></p><p>Đây chỉ là danh sách dự kiến của UEFA bởi mọi chuyện còn phụ thuộc vào diễn biến của dịch Covid-19. Ở mùa giải 2019/20, sân vận động Ataturk Olympic ở Istanbul (Thổ Nhĩ Kỳ) từng được UEFA lựa chọn để đăng cai trận chung kết Champions League. Tuy nhiên, vì diễn biến phức tạp của đại dịch toàn cầu, các trận đấu từ vòng tứ kết cho đến chung kết ở giải đấu này đều chuyển sang Lisbon (Bồ Đào Nha).</p><p>Sau đó, sân Ataturk Olympic tiếp tục được UEFA chọn làm nơi tổ chức trận đấu cuối cùng ở Champions League 2020/21. Song, vì vấn đề tương tự mùa giải 2019/20, cơ quan quyền lực nhất của bóng đá châu Âu quyết định dời địa điểm đăng cai trận đấu này sang Porto (Bồ Đào Nha).</p><p>Việc chọn sân Ataturk Olympic làm nơi diễn ra trận chung kết Champions League 2022/23 có thể xem là phương án an toàn để UEFA “bù đắp” cho Liên đoàn Bóng đá Thổ Nhĩ Kỳ sau 2 lần lỡ hẹn.</p>",
+      "categories": ["the-thao", "bong-da", "moi-nhat"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/khunsio/2021_07_17/1002915491_1.jpg"
+    },
+    {
+      "id": 9,
+      "breadcrumb": "",
+      "author": "Tuấn Nguyên",
+      "created_at": "Thứ 6, 17/7/2021 12:52 (GMT+7)",
+      "title": "Torres bắt đầu sự nghiệp huấn luyện viên",
+      "slug": "torres-bat-dau-su-nghiep-huan-luyen-vien",
+      "subtitle": "Cựu danh thủ người Tây Ban Nha sẽ tái xuất sân cỏ trong vai trò huấn luyện viên.",
+      "desc": "<p>AS đưa tin Fernando Torres sẽ trở thành huấn luyện viên của đội Juvenil A (U19) của Atletico Madrid. Cựu danh thủ người Tây Ban Nha có sự chuẩn bị trong nhiều tháng qua. Anh sẵn sàng trở lại với sân cỏ với tư cách của nhà cầm quân.</p><p>Torres từng học việc ở ban huấn luyện đội B Atletico Madrid từ tháng 1. 'El Nino' không có bằng cấp, nên chỉ có thể quan sát công việc chỉ đạo của HLV Nacho Fernandez từ khán đài. Tuy nhiên, anh vẫn bộc lộ năng khiếu trong công việc này.</p><p><img src='https://znews-photo.zadn.vn/w660/Uploaded/natmzz/2021_07_16/tt.JPG' /></p><p>Việc trau dồi kiến thức huấn luyện của Torres từng bị gián đoạn vào tháng 3, nhưng anh kịp trở lại để hoàn tất việc cộng tác với đội trẻ Atletico Madrid.</p><p>Theo AS, Juvenil A Atletico Madrid đang sở hữu nhiều cầu thủ tài năng và là hình mẫu của mọi đội bóng trẻ tại Tây Ban Nha. Đây chỉ là bước đầu trong sự nghiệp cầm quân của nhà vô địch World Cup 2010. CĐV kỳ vọng với tình yêu Torres dành cho Atletico, anh sẽ trở thành huấn luyện viên đội một Rojiblancos trong tương lai.</p><p>Torres gia nhập lò đào tạo trẻ Atletico từ năm 1995. Năm 2001, anh lên đội một và sớm chiếm được suất đá chính. 'El Nino' khoác áo đội bóng thành Madrid đến năm 2007 rồi đầu quân cho Liverpool, sau đó là Chelsea. Năm 2016, Torres trở lại và cống hiến thêm 2 mùa cho Rojiblancos, trước khi giải nghệ tại Nhật Bản.</p>",
+      "categories": ["the-thao", "bong-da", "moi-nhat", "torres"],
+      "poster": "https://znews-photo.zadn.vn/w360/Uploaded/natmzz/2021_07_16/ttt.JPG"
+    }
+  ]
+}
