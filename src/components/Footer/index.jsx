@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 function Footer() {
     return (
         <footer className="footer">
-            this is footer
+            this is footer.
         </footer>
     );
 };
