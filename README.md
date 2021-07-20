@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## START PROJECT CẦN CHẠY 2 CÁI
-### 1: Start json-server `json-server --watch db.json --port=7777`
+### 1: Start json-server `json-server --watch db.json --port 7777`
 ### 2: Start react `npm start`
 
 ### `npm start`
