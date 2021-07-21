@@ -2,28 +2,25 @@ import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import './style.scss';
 import api from '../../../../api/apiService';
-import GoodBook from '../../components/goodbooks';
-import NewBook from '../../components/newbooks';
+import HightLightList from '../../../../components/HightLightList';
 
-// okie
-//ua t dinh lam style tu nhien m lam lun r 
-// de t xoa roi m lam lại// thui lam bien hiih
-// để t xem lại cái useEffect méo hiểu nó chạy salon
-// trang detail thì làm sao lấy được cái param stephen-hawking-cau-be-me-che-tao
-// sau đó fillter là ra
-//okie
 BookList.propTypes = {  
     
 };
 function BookList(props) {
     const [books, setBooks] = useState([]);   
+    const [booksHightLight, setBooksHightLight] = useState([]);
 
     useEffect(() => {
         const endpoint = '/books';
         const fetchData = async () => {
             let response = await api.get(endpoint);   
-            setBooks(response.data);    
-            console.log(books);                            
+            let booksHL = response.data.filter(book => {
+                return book.categories.some(val => val === 'noi-bat')
+            })
+            booksHL = booksHL.slice(0, 4);            
+            setBooks(response.data);      
+            setBooksHightLight(booksHL);                             
         }
         fetchData();
     
@@ -33,8 +30,9 @@ function BookList(props) {
     }, [])
 
     return (
-        <div className="bookList">         
-            <GoodBook books={books}/>           
+        <div className="book">     
+            <h2 className="book__title">SÁCH HAY</h2>    
+            <HightLightList hightLight={booksHightLight} />
         </div>
     );
 };

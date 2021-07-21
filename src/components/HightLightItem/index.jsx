@@ -1,14 +1,10 @@
 import React from 'react';
-import { Link, useRouteMatch } from 'react-router-dom';
 import PropTypes from 'prop-types';
+import { Link, useRouteMatch } from 'react-router-dom';
 import './style.scss';
 
-BookItem.propTypes = {
-    books: PropTypes.object,    
-};
-
-function BookItem({poster, title, subtitle, slug}) {   
-    const path = useRouteMatch().path;
+function HightLightItem({poster, title, subtitle, slug}) {
+    const path = useRouteMatch().path;    
 
     return (
         <div className="bookHL-item">
@@ -23,6 +19,10 @@ function BookItem({poster, title, subtitle, slug}) {
             </div>
         </div>    
     );
-}
+};
 
-export default BookItem;
+HightLightItem.propTypes = {
+
+};
+
+export default HightLightItem;

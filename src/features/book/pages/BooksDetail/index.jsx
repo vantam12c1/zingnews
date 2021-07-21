@@ -1,20 +1,21 @@
 import React, { useState, useEffect } from 'react';
-import { Link, useRouteMatch } from 'react-router-dom';
+import { useRouteMatch } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import './style.scss';
 import api from '../../../../api/apiService';
+import DetailHeader from '../../components/DetailHeader';
+import DetailContent from '../../components/DetailContent';
 
 function BookDetail(props) {
-    const path = useRouteMatch().path;
-    const [details, setDetails] = useState([]);   
-    console.log(useRouteMatch())
-    useEffect(() => {
-       
+    const [book, setBook] = useState({});
+    const params = useRouteMatch().params.slug;
+
+    useEffect(() => {       
         const endpoint = '/books';
         const fetchData = async () => {
             let response = await api.get(endpoint);   
-            setDetails(response.data);    
-                                     
+            let bookFilter = response.data.find(b => b.slug == params);
+            setBook(bookFilter)       
         }
         fetchData();
     
@@ -25,14 +26,9 @@ function BookDetail(props) {
  
 
     return (
-       
-        <div className="bookDetail">         
-           {details.map(val => {
-               return (
-                   <div dangerouslySetInnerHTML={{__html:val.desc}}></div>
-                   )
-           })}
-              
+        <div className="book-detail">         
+            <DetailHeader data={book} />
+            <DetailContent data={book} />
         </div>
     );
 };

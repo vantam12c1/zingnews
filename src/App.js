@@ -4,8 +4,8 @@ import Paths from './paths/paths.js';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomeFeature from './features/Home';
-import BookFeature from './features/book';
-import SportFeature from './features/sport';
+import BookFeature from './features/Book';
+import SportFeature from './features/Sport';
 
 function App() {
   return (

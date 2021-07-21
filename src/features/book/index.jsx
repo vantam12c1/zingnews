@@ -16,11 +16,7 @@ function BookFeature() {
         </>
     );
 };
-// rooif
-// khi nó vào book/list sẽ điều hướng về book
-// còn cái lỗi ul li gì gì đó là tại ở header có mấy cái lilinddeeer javascript:void(0) thằng react k chịu 
-// kệ nó chạy cũng được
-//okie, nào ko bít t hỏi tiêp
+
 BookFeature.propTypes = {
 
 };
