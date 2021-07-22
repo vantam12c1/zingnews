@@ -10,7 +10,7 @@ function HightLightItem({poster, title, subtitle, slug}) {
         <div className="bookHL-item">
             <div className="flex">
                 <div className="poster">
-                    <img src={poster} />
+                    <Link to={`${path}/${slug}`}>  <img src={poster}  /> </Link>
                 </div>
                 <div className="info">
                     <div className="title"><Link to={`${path}/${slug}`}>{title}</Link></div>

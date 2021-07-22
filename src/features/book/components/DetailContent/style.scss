@@ -1,0 +1,29 @@
+.detail-content{
+    padding:30px;
+    border-radius:10px;
+   font-family: 'Noto Serif',serif;
+    .title-content{
+        font-size:35px;
+        text-align:center;
+
+    }
+    .text-subtitle{
+        width:75%;
+        margin:0 auto;
+        p.subtitle-content{
+            font-size:20px;
+            font-weight:bold;
+            text-align:center;
+            color:#333;
+        }
+    }
+    p{
+        font-size:20px;
+    }
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    
+}

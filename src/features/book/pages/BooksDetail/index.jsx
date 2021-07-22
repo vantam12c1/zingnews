@@ -9,6 +9,7 @@ import DetailContent from '../../components/DetailContent';
 function BookDetail(props) {
     const [book, setBook] = useState({});
     const params = useRouteMatch().params.slug;
+  
 
     useEffect(() => {       
         const endpoint = '/books';
@@ -26,7 +27,7 @@ function BookDetail(props) {
  
 
     return (
-        <div className="book-detail">         
+        <div className="book-detail" >         
             <DetailHeader data={book} />
             <DetailContent data={book} />
         </div>
